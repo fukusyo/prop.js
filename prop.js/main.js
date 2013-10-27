@@ -4,3 +4,4 @@ log("hello");
 
 //a = new Prop();
 a = Prop; //オブジェクトをセット
+a.type = "ぷろっぷ";//プロパティにセット
